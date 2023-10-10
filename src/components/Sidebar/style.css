@@ -1,0 +1,16 @@
+.habitItem {
+    color: white;
+    background: #2D3748;
+    width: 19rem;
+    height: 4.5rem;
+    justify-content: space-between;
+    padding: 0px 20px 0 25px;
+    border-radius: 8px;
+    margin: 0 !important;
+    font-family: 'Source Serif 4', serif !important;
+    font-weight: 600 !important;
+}
+
+svg {
+    fill:white
+}
